@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+p {
+    margin: 0;
+}
+
+body {
+    background-color: rgb(18, 18, 160);
+}
+
+.titolo {
+    text-align: center;
+    color: white;
+    margin: 30px;
+}
+
+.square {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100px;
+    height: 100px;
+    background-color: rgb(19, 128, 128);
+    font-size: 25px;
+    margin: 10px;
+}
+
+.mio-container {
+    margin: auto;
+    width: 80%;
+    display: flex;
+    flex-wrap: wrap;
+}
