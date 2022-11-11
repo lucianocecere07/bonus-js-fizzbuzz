@@ -9,12 +9,11 @@ p {
 }
 
 body {
-    background-color: rgb(18, 18, 160);
+    background-color: rgb(127, 57, 185);
 }
 
 .titolo {
     text-align: center;
-    color: white;
     margin: 30px;
 }
 
@@ -24,9 +23,10 @@ body {
     justify-content: center;
     width: 100px;
     height: 100px;
-    background-color: rgb(19, 128, 128);
+    background-color: rgb(15, 71, 71);
     font-size: 25px;
     margin: 10px;
+    color: aliceblue;
 }
 
 .mio-container {
